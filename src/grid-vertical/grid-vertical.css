@@ -1,0 +1,11 @@
+.grid-vertical {
+  display: table;
+  table-layout: fixed;
+}
+
+.grid-vertical-cell {
+  display: table-cell;
+  vertical-align: middle;
+  float: none;
+  text-align: center;
+}

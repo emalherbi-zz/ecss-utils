@@ -1,0 +1,17 @@
+{
+  "name": "ecss-utils",
+  "version": "3.0.0",
+  "description": "Useful CSS integrated with twitter bootstrap",
+  "authors": [
+    "emalherbi"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

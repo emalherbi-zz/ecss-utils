@@ -1,2 +1,3 @@
 # ecss-utils
-CSS Utils
+
+Useful CSS integrated with twitter bootstrap.
